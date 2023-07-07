@@ -1,4 +1,4 @@
-#Home Cleaning Robot using Computer Vision 
+**Home Cleaning Robot using Computer Vision**
 
 •	Designed and built a home-cleaning robot prototype using:                                                                                                                     
 
